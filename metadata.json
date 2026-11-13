@@ -1,0 +1,8 @@
+{
+  "name": "Jack -- 3D Creator",
+  "description": "Portfolio of Jack, a 3D Creator driven by crafting striking and unforgettable 3D modeling, rendering, motion design, branding, and web experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
